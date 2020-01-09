@@ -4,13 +4,11 @@
  Made for managing events within small groups
  
  Features:
-   Create events with details, invites, cost, etc.
+   Create events with details, invites, cost, etc. 
    Event feed
    Bill splitter between group of people
    Notificion feed
    Profiles and "friends"
- 
- Desired Features:
    Direct Messaging
    
   
